@@ -2,7 +2,7 @@
 
 ## C++ 기초
 
-* [프로그래밍 개념](#이동할-위치)
+* [프로그래밍 개념](https://github.com/hbyul35/CppBase/blob/main/Base/Concept.md)
 * [프로그램 개발 과정](#이동할-위치)
 * [C++ 구성요소](#이동할-위치)
 
