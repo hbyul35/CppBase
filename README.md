@@ -8,7 +8,7 @@
 
 
 ## 프로그래밍 기초
-* [변수](#이동할-위치)
+* [변수](https://github.com/hbyul35/CppBase/blob/main/Base/variable.md)
 * [연산자](#이동할-위치)
 
 ## 제어문
