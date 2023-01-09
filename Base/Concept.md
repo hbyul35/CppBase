@@ -40,5 +40,5 @@
 * 데이터 자료형에 종속하지 않은 알고리즘
 
 
-교수님의 깃허브 대다수 참고
+교수님의 깃허브를 참고했습니다.
 https://github.com/geunkim/CPPLectures
