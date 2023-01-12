@@ -10,7 +10,7 @@
 ## 프로그래밍 기초
 * [변수](https://github.com/hbyul35/CppBase/blob/main/Base/variable.md)
 * [자료형](https://github.com/hbyul35/CppBase/blob/main/Base/DataType.md)
-* [연산자](#이동할-위치)
+* [연산자](https://github.com/hbyul35/CppBase/blob/main/Base/operator.md)
 
 ## 제어문
 * [조건문](#이동할-위치)
