@@ -9,3 +9,15 @@
 실수를 표현한다.
 
 
+|구분|자료형|크기|
+|:---:|:---:|:---:|
+|문자형|char|1byte|
+|정수형|short|2byte|
+||int|4byte|
+||long|8byte|
+||long long|8byte|
+|실수형|float|4byte|
+||double|8byte|
+||long double|16byte|
+|부울형|bool|1byte|
+
